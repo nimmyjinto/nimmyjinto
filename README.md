@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nimmyjinto
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning programming..
+- 👋 Hi, I’m @mariyam_thomas
+- 👀 I’m interested in learning...
+- 🌱 I’m currently learning cloud..
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me .....>> nimmy.m100@gmail.com
 
